@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Hao\source\repos\Gator Tree\Gator Tree\main.cpp(307,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hao\source\repos\Gator Tree\Gator Tree\main.cpp(382,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hao\source\repos\Gator Tree\Gator Tree\main.cpp(428,19): warning C4018: '>=': signed/unsigned mismatch
+  Gator Tree.vcxproj -> C:\Users\Hao\source\repos\Gator Tree\Debug\Gator Tree.exe
